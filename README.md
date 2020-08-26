@@ -10,3 +10,6 @@ It is a post recommendation system. In the **Mldata** folder there are three csv
 - users.csv is the details for the users
 - posts.csv is the details for posts
 - views.csv is the details for the which user has visit which post.
+
+## Similar Project Structure
+I am working on **Movie Recommendation System**, [Click Here](https://movie-recommendation-system.netlify.app/) to see the corresponding documentation which I have created till now.
